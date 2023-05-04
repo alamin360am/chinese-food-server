@@ -1,0 +1,590 @@
+[
+    {
+      "chef_id": "chef_001",
+      "chef_name": "Ken Hom",
+      "description": "Ken Hom is a Chinese-American chef, author and television-show presenter for the BBC, specialising in Asian Cuisine. Having already appointed an honorary Officer of the Order of the British Empire (OBE) in 2009 for services to culinary arts, he was further appointed an honorary Commander of the Order of the British Empire (CBE) in 2022.",
+      "experience": "3",
+      "numbers_of_recipes": "10",
+      "likes": "745k",
+      "chef_photo": "https://i.postimg.cc/05bfqjMk/b083fe96fb62188ffe4847.jpg",
+      "recipe": [
+        {
+          "recipe_id": "recipe_01",
+          "recipe_name": "Kung Pao Chicken",
+          "ingredients": [
+            "1 lb. boneless chicken breast",
+            "1/4 cup cornstarch",
+            "1/4 cup vegetable oil",
+            "1 red bell pepper, chopped",
+            "1 green bell pepper, chopped",
+            "1/2 cup roasted peanuts",
+            "1 tablespoon garlic, minced",
+            "1 tablespoon ginger, minced",
+            "2 green onions, chopped",
+            "2 tablespoons soy sauce",
+            "2 tablespoons rice vinegar",
+            "1 tablespoon hoisin sauce",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "1 teaspoon sesame oil"
+          ],
+          "instructions": [
+            "Cut the chicken into bite-sized pieces and toss with cornstarch.",
+            "Heat the vegetable oil in a large skillet over high heat.",
+            "Add the chicken to the skillet and cook until browned and crispy, about 5 minutes.",
+            "Add the bell peppers, peanuts, garlic, ginger, and green onions to the skillet and cook for 2-3 minutes.",
+            "In a small bowl, whisk together the soy sauce, rice vinegar, hoisin sauce, cornstarch, water, and sesame oil.",
+            "Add the sauce to the skillet and stir until the chicken and vegetables are coated.",
+            "Cook for an additional 1-2 minutes until the sauce thickens.",
+            "Serve hot over rice."
+          ],
+          "ratings": "4.5"
+        },
+        {
+          "recipe_id": "recipe_02",
+          "name": "Hot and Sour Soup",
+          "ingredients": [
+            "4 cups chicken broth",
+            "2 cups water",
+            "1/2 lb. shiitake mushrooms, sliced",
+            "1/2 lb. tofu, cut into small cubes",
+            "1/2 cup bamboo shoots, sliced",
+            "1/2 cup rice vinegar",
+            "2 tablespoons soy sauce",
+            "2 teaspoons chili garlic sauce",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "1 egg, lightly beaten",
+            "2 green onions, chopped",
+            "1 teaspoon sesame oil"
+          ],
+          "instructions": [
+            "In a large pot, bring the chicken broth and water to a boil.",
+            "Add the shiitake mushrooms, tofu, and bamboo shoots to the pot and simmer for 10 minutes.",
+            "In a small bowl, whisk together the rice vinegar, soy sauce, chili garlic sauce, cornstarch, and water.",
+            "Add the sauce to the pot and stir until the soup thickens, about 2-3 minutes.",
+            "Slowly pour the beaten egg into the pot while stirring the soup.",
+            "Add the green onions and sesame oil to the pot and stir.",
+            "Serve hot."
+          ],
+          "ratings": "4.7"
+        },
+        {
+          "recipe_id": "recipe_03",
+          "name": "Zeppole",
+          "ingredients": [
+            "2 to 3 cups extra-virgin olive oil",
+            "2 to 3 cups vegetable oil",
+            "2 large eggs",
+            "1 c. whole-milk ricotta cheese",
+            "1 tsp. pure vanilla extract",
+            "3/4 c. granulated sugar, divided",
+            "1 1/4 tsp. finely grated orange zest",
+            "1 c. all-purpose flour",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water"
+          ],
+          "instructions": [
+            "Fill a medium pot fitted with a deep-fry thermometer with equal parts olive oil and vegetable oil to a depth of about 2.",
+            "Heat over medium heat until thermometer registers 350.",
+            "In a medium bowl, whisk eggs, ricotta, vanilla, 1/4 cup granulated sugar, and 1/2 teaspoon orange zest until smooth. Add flour, baking powder, salt, and nutmeg and whisk until smooth.",
+            "In a shallow bowl, combine remaining 1/2 cup granulated sugar and 3/4 teaspoon orange zest",
+            "Using your fingers, work zest into sugar until evenly incorporated.",
+            "Transfer to orange sugar and roll to coat.",
+            "Serve hot."
+          ],
+          "ratings": "4.4"
+        }
+      ]
+    },
+    {
+      "chef_id": "chef_002",
+      "chef_name": "Martin Yan",
+      "description": "Martin Yan is a Hong Kong chef and food writer. He has hosted his award-winning PBS-TV cooking show Yan Can Cook since 1982. Yan began teaching Chinese cooking for a college extension program and appearing on a Canadian talk show from Calgary in 1978 (on CFAC-TV, now CICT-DT). He has hosted over 3,500 episodes of the PBS cooking show Yan Can Cook since 1982.",
+      "experience": "5",
+      "numbers_of_recipes": "8",
+      "likes": "225k",
+      "chef_photo": "https://i.postimg.cc/VLtWdhW2/chan-yan-tak-alchetron.jpg",
+      "recipe": [
+        {
+          "recipe_id": "recipe_01",
+          "recipe_name": "Kung Pao Chicken",
+          "ingredients": [
+            "1 lb. boneless chicken breast",
+            "1/4 cup cornstarch",
+            "1/4 cup vegetable oil",
+            "1 red bell pepper, chopped",
+            "1 green bell pepper, chopped",
+            "1/2 cup roasted peanuts",
+            "1 tablespoon garlic, minced",
+            "1 tablespoon ginger, minced",
+            "2 green onions, chopped",
+            "2 tablespoons soy sauce",
+            "2 tablespoons rice vinegar",
+            "1 tablespoon hoisin sauce",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "1 teaspoon sesame oil"
+          ],
+          "instructions": [
+            "Cut the chicken into bite-sized pieces and toss with cornstarch.",
+            "Heat the vegetable oil in a large skillet over high heat.",
+            "Add the chicken to the skillet and cook until browned and crispy, about 5 minutes.",
+            "Add the bell peppers, peanuts, garlic, ginger, and green onions to the skillet and cook for 2-3 minutes.",
+            "In a small bowl, whisk together the soy sauce, rice vinegar, hoisin sauce, cornstarch, water, and sesame oil.",
+            "Add the sauce to the skillet and stir until the chicken and vegetables are coated.",
+            "Cook for an additional 1-2 minutes until the sauce thickens.",
+            "Serve hot over rice."
+          ],
+          "ratings": "4.5"
+        },
+        {
+          "recipe_id": "recipe_02",
+          "name": "Hot and Sour Soup",
+          "ingredients": [
+            "4 cups chicken broth",
+            "2 cups water",
+            "1/2 lb. shiitake mushrooms, sliced",
+            "1/2 lb. tofu, cut into small cubes",
+            "1/2 cup bamboo shoots, sliced",
+            "1/2 cup rice vinegar",
+            "2 tablespoons soy sauce",
+            "2 teaspoons chili garlic sauce",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "1 egg, lightly beaten",
+            "2 green onions, chopped",
+            "1 teaspoon sesame oil"
+          ],
+          "instructions": [
+            "In a large pot, bring the chicken broth and water to a boil.",
+            "Add the shiitake mushrooms, tofu, and bamboo shoots to the pot and simmer for 10 minutes.",
+            "In a small bowl, whisk together the rice vinegar, soy sauce, chili garlic sauce, cornstarch, and water.",
+            "Add the sauce to the pot and stir until the soup thickens, about 2-3 minutes.",
+            "Slowly pour the beaten egg into the pot while stirring the soup.",
+            "Add the green onions and sesame oil to the pot and stir.",
+            "Serve hot."
+          ],
+          "ratings": "4.7"
+        },
+        {
+          "recipe_id": "recipe_03",
+          "name": "Zeppole",
+          "ingredients": [
+            "2 to 3 cups extra-virgin olive oil",
+            "2 to 3 cups vegetable oil",
+            "2 large eggs",
+            "1 c. whole-milk ricotta cheese",
+            "1 tsp. pure vanilla extract",
+            "3/4 c. granulated sugar, divided",
+            "1 1/4 tsp. finely grated orange zest",
+            "1 c. all-purpose flour",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water"
+          ],
+          "instructions": [
+            "Fill a medium pot fitted with a deep-fry thermometer with equal parts olive oil and vegetable oil to a depth of about 2.",
+            "Heat over medium heat until thermometer registers 350.",
+            "In a medium bowl, whisk eggs, ricotta, vanilla, 1/4 cup granulated sugar, and 1/2 teaspoon orange zest until smooth. Add flour, baking powder, salt, and nutmeg and whisk until smooth.",
+            "In a shallow bowl, combine remaining 1/2 cup granulated sugar and 3/4 teaspoon orange zest",
+            "Using your fingers, work zest into sugar until evenly incorporated.",
+            "Transfer to orange sugar and roll to coat.",
+            "Serve hot."
+          ],
+          "ratings": "4.4"
+        }
+      ]
+    },
+    {
+      "chef_id": "chef_003",
+      "chef_name": "Philippe Chow",
+      "description": "Since his humble beginnings as a teenage chef in Hong Kong restaurants, Executive Chef Philippe Chow has wowed thousands of diners and cooked in many of the world’s most high-profile kitchens. In 2004, Chef Chow brought Philippe to the biggest culinary stage, New York City.",
+      "experience": "2",
+      "numbers_of_recipes": "6",
+      "likes": "15k",
+      "chef_photo": "https://i.postimg.cc/DfHcfhLq/Chef-Martin-Yan-top.jpg",
+      "recipe": [
+        {
+          "recipe_id": "recipe_01",
+          "recipe_name": "Kung Pao Chicken",
+          "ingredients": [
+            "1 lb. boneless chicken breast",
+            "1/4 cup cornstarch",
+            "1/4 cup vegetable oil",
+            "1 red bell pepper, chopped",
+            "1 green bell pepper, chopped",
+            "1/2 cup roasted peanuts",
+            "1 tablespoon garlic, minced",
+            "1 tablespoon ginger, minced",
+            "2 green onions, chopped",
+            "2 tablespoons soy sauce",
+            "2 tablespoons rice vinegar",
+            "1 tablespoon hoisin sauce",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "1 teaspoon sesame oil"
+          ],
+          "instructions": [
+            "Cut the chicken into bite-sized pieces and toss with cornstarch.",
+            "Heat the vegetable oil in a large skillet over high heat.",
+            "Add the chicken to the skillet and cook until browned and crispy, about 5 minutes.",
+            "Add the bell peppers, peanuts, garlic, ginger, and green onions to the skillet and cook for 2-3 minutes.",
+            "In a small bowl, whisk together the soy sauce, rice vinegar, hoisin sauce, cornstarch, water, and sesame oil.",
+            "Add the sauce to the skillet and stir until the chicken and vegetables are coated.",
+            "Cook for an additional 1-2 minutes until the sauce thickens.",
+            "Serve hot over rice."
+          ],
+          "ratings": "4.5"
+        },
+        {
+          "recipe_id": "recipe_02",
+          "name": "Hot and Sour Soup",
+          "ingredients": [
+            "4 cups chicken broth",
+            "2 cups water",
+            "1/2 lb. shiitake mushrooms, sliced",
+            "1/2 lb. tofu, cut into small cubes",
+            "1/2 cup bamboo shoots, sliced",
+            "1/2 cup rice vinegar",
+            "2 tablespoons soy sauce",
+            "2 teaspoons chili garlic sauce",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "1 egg, lightly beaten",
+            "2 green onions, chopped",
+            "1 teaspoon sesame oil"
+          ],
+          "instructions": [
+            "In a large pot, bring the chicken broth and water to a boil.",
+            "Add the shiitake mushrooms, tofu, and bamboo shoots to the pot and simmer for 10 minutes.",
+            "In a small bowl, whisk together the rice vinegar, soy sauce, chili garlic sauce, cornstarch, and water.",
+            "Add the sauce to the pot and stir until the soup thickens, about 2-3 minutes.",
+            "Slowly pour the beaten egg into the pot while stirring the soup.",
+            "Add the green onions and sesame oil to the pot and stir.",
+            "Serve hot."
+          ],
+          "ratings": "4.7"
+        },
+        {
+          "recipe_id": "recipe_03",
+          "name": "Zeppole",
+          "ingredients": [
+            "2 to 3 cups extra-virgin olive oil",
+            "2 to 3 cups vegetable oil",
+            "2 large eggs",
+            "1 c. whole-milk ricotta cheese",
+            "1 tsp. pure vanilla extract",
+            "3/4 c. granulated sugar, divided",
+            "1 1/4 tsp. finely grated orange zest",
+            "1 c. all-purpose flour",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water"
+          ],
+          "instructions": [
+            "Fill a medium pot fitted with a deep-fry thermometer with equal parts olive oil and vegetable oil to a depth of about 2.",
+            "Heat over medium heat until thermometer registers 350.",
+            "In a medium bowl, whisk eggs, ricotta, vanilla, 1/4 cup granulated sugar, and 1/2 teaspoon orange zest until smooth. Add flour, baking powder, salt, and nutmeg and whisk until smooth.",
+            "In a shallow bowl, combine remaining 1/2 cup granulated sugar and 3/4 teaspoon orange zest",
+            "Using your fingers, work zest into sugar until evenly incorporated.",
+            "Transfer to orange sugar and roll to coat.",
+            "Serve hot."
+          ],
+          "ratings": "4.4"
+        }
+      ]
+    },
+    {
+      "chef_id": "chef_004",
+      "chef_name": "Discover Walks",
+      "description": "Discover Walks is a Chinese-American chef, author and television-show presenter for the BBC, specialising in Asian Cuisine. Having already appointed an honorary Officer of the Order of the British Empire (OBE) in 2009 for services to culinary arts, he was further appointed an honorary Commander of the Order of the British Empire (CBE) in 2022.",
+      "experience": "7",
+      "numbers_of_recipes": "4",
+      "likes": "230k",
+      "chef_photo": "https://i.postimg.cc/Dm3XtwsP/download.jpg",
+      "recipe": [
+        {
+          "recipe_id": "recipe_01",
+          "recipe_name": "Kung Pao Chicken",
+          "ingredients": [
+            "1 lb. boneless chicken breast",
+            "1/4 cup cornstarch",
+            "1/4 cup vegetable oil",
+            "1 red bell pepper, chopped",
+            "1 green bell pepper, chopped",
+            "1/2 cup roasted peanuts",
+            "1 tablespoon garlic, minced",
+            "1 tablespoon ginger, minced",
+            "2 green onions, chopped",
+            "2 tablespoons soy sauce",
+            "2 tablespoons rice vinegar",
+            "1 tablespoon hoisin sauce",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "1 teaspoon sesame oil"
+          ],
+          "instructions": [
+            "Cut the chicken into bite-sized pieces and toss with cornstarch.",
+            "Heat the vegetable oil in a large skillet over high heat.",
+            "Add the chicken to the skillet and cook until browned and crispy, about 5 minutes.",
+            "Add the bell peppers, peanuts, garlic, ginger, and green onions to the skillet and cook for 2-3 minutes.",
+            "In a small bowl, whisk together the soy sauce, rice vinegar, hoisin sauce, cornstarch, water, and sesame oil.",
+            "Add the sauce to the skillet and stir until the chicken and vegetables are coated.",
+            "Cook for an additional 1-2 minutes until the sauce thickens.",
+            "Serve hot over rice."
+          ],
+          "ratings": "4.5"
+        },
+        {
+          "recipe_id": "recipe_02",
+          "name": "Hot and Sour Soup",
+          "ingredients": [
+            "4 cups chicken broth",
+            "2 cups water",
+            "1/2 lb. shiitake mushrooms, sliced",
+            "1/2 lb. tofu, cut into small cubes",
+            "1/2 cup bamboo shoots, sliced",
+            "1/2 cup rice vinegar",
+            "2 tablespoons soy sauce",
+            "2 teaspoons chili garlic sauce",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "1 egg, lightly beaten",
+            "2 green onions, chopped",
+            "1 teaspoon sesame oil"
+          ],
+          "instructions": [
+            "In a large pot, bring the chicken broth and water to a boil.",
+            "Add the shiitake mushrooms, tofu, and bamboo shoots to the pot and simmer for 10 minutes.",
+            "In a small bowl, whisk together the rice vinegar, soy sauce, chili garlic sauce, cornstarch, and water.",
+            "Add the sauce to the pot and stir until the soup thickens, about 2-3 minutes.",
+            "Slowly pour the beaten egg into the pot while stirring the soup.",
+            "Add the green onions and sesame oil to the pot and stir.",
+            "Serve hot."
+          ],
+          "ratings": "4.7"
+        },
+        {
+          "recipe_id": "recipe_03",
+          "name": "Zeppole",
+          "ingredients": [
+            "2 to 3 cups extra-virgin olive oil",
+            "2 to 3 cups vegetable oil",
+            "2 large eggs",
+            "1 c. whole-milk ricotta cheese",
+            "1 tsp. pure vanilla extract",
+            "3/4 c. granulated sugar, divided",
+            "1 1/4 tsp. finely grated orange zest",
+            "1 c. all-purpose flour",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water"
+          ],
+          "instructions": [
+            "Fill a medium pot fitted with a deep-fry thermometer with equal parts olive oil and vegetable oil to a depth of about 2.",
+            "Heat over medium heat until thermometer registers 350.",
+            "In a medium bowl, whisk eggs, ricotta, vanilla, 1/4 cup granulated sugar, and 1/2 teaspoon orange zest until smooth. Add flour, baking powder, salt, and nutmeg and whisk until smooth.",
+            "In a shallow bowl, combine remaining 1/2 cup granulated sugar and 3/4 teaspoon orange zest",
+            "Using your fingers, work zest into sugar until evenly incorporated.",
+            "Transfer to orange sugar and roll to coat.",
+            "Serve hot."
+          ],
+          "ratings": "4.4"
+        }
+      ]
+    },
+    {
+      "chef_id": "chef_005",
+      "chef_name": "Chef John",
+      "description": "John Armand Mitzewich, more commonly known as Chef John, is an American chef known for publishing instructional cooking videos on the blog and YouTube channel Food Wishes, with over 1 billion views on his channel.",
+      "experience": "9",
+      "numbers_of_recipes": "11",
+      "likes": "525k",
+      "chef_photo": "https://i.postimg.cc/prFjGF9d/Pinch-Chinese-Chef-Hua-Zhang-1024x1024-1.jpg",
+      "recipe": [
+        {
+          "recipe_id": "recipe_01",
+          "recipe_name": "Kung Pao Chicken",
+          "ingredients": [
+            "1 lb. boneless chicken breast",
+            "1/4 cup cornstarch",
+            "1/4 cup vegetable oil",
+            "1 red bell pepper, chopped",
+            "1 green bell pepper, chopped",
+            "1/2 cup roasted peanuts",
+            "1 tablespoon garlic, minced",
+            "1 tablespoon ginger, minced",
+            "2 green onions, chopped",
+            "2 tablespoons soy sauce",
+            "2 tablespoons rice vinegar",
+            "1 tablespoon hoisin sauce",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "1 teaspoon sesame oil"
+          ],
+          "instructions": [
+            "Cut the chicken into bite-sized pieces and toss with cornstarch.",
+            "Heat the vegetable oil in a large skillet over high heat.",
+            "Add the chicken to the skillet and cook until browned and crispy, about 5 minutes.",
+            "Add the bell peppers, peanuts, garlic, ginger, and green onions to the skillet and cook for 2-3 minutes.",
+            "In a small bowl, whisk together the soy sauce, rice vinegar, hoisin sauce, cornstarch, water, and sesame oil.",
+            "Add the sauce to the skillet and stir until the chicken and vegetables are coated.",
+            "Cook for an additional 1-2 minutes until the sauce thickens.",
+            "Serve hot over rice."
+          ],
+          "ratings": "4.5"
+        },
+        {
+          "recipe_id": "recipe_02",
+          "name": "Hot and Sour Soup",
+          "ingredients": [
+            "4 cups chicken broth",
+            "2 cups water",
+            "1/2 lb. shiitake mushrooms, sliced",
+            "1/2 lb. tofu, cut into small cubes",
+            "1/2 cup bamboo shoots, sliced",
+            "1/2 cup rice vinegar",
+            "2 tablespoons soy sauce",
+            "2 teaspoons chili garlic sauce",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "1 egg, lightly beaten",
+            "2 green onions, chopped",
+            "1 teaspoon sesame oil"
+          ],
+          "instructions": [
+            "In a large pot, bring the chicken broth and water to a boil.",
+            "Add the shiitake mushrooms, tofu, and bamboo shoots to the pot and simmer for 10 minutes.",
+            "In a small bowl, whisk together the rice vinegar, soy sauce, chili garlic sauce, cornstarch, and water.",
+            "Add the sauce to the pot and stir until the soup thickens, about 2-3 minutes.",
+            "Slowly pour the beaten egg into the pot while stirring the soup.",
+            "Add the green onions and sesame oil to the pot and stir.",
+            "Serve hot."
+          ],
+          "ratings": "4.7"
+        },
+        {
+          "recipe_id": "recipe_03",
+          "name": "Zeppole",
+          "ingredients": [
+            "2 to 3 cups extra-virgin olive oil",
+            "2 to 3 cups vegetable oil",
+            "2 large eggs",
+            "1 c. whole-milk ricotta cheese",
+            "1 tsp. pure vanilla extract",
+            "3/4 c. granulated sugar, divided",
+            "1 1/4 tsp. finely grated orange zest",
+            "1 c. all-purpose flour",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water"
+          ],
+          "instructions": [
+            "Fill a medium pot fitted with a deep-fry thermometer with equal parts olive oil and vegetable oil to a depth of about 2.",
+            "Heat over medium heat until thermometer registers 350.",
+            "In a medium bowl, whisk eggs, ricotta, vanilla, 1/4 cup granulated sugar, and 1/2 teaspoon orange zest until smooth. Add flour, baking powder, salt, and nutmeg and whisk until smooth.",
+            "In a shallow bowl, combine remaining 1/2 cup granulated sugar and 3/4 teaspoon orange zest",
+            "Using your fingers, work zest into sugar until evenly incorporated.",
+            "Transfer to orange sugar and roll to coat.",
+            "Serve hot."
+          ],
+          "ratings": "4.4"
+        }
+      ]
+    },
+    {
+      "chef_id": "chef_006",
+      "chef_name": "Hua Zhang",
+      "description": "Zhang Hua, courtesy name Maoxian, was a Chinese poet, intellectual, and politician of the Western Jin dynasty and the preceding state of Cao Wei. An accomplished poet, Zhang also authored the Bowuzhi, a compendium of entries about natural wonders and supernatural phenomena. His political career reached its zenith from 291 to 300, when he served as a leading minister during the de facto regency of Empress Jia Nanfeng. ",
+      "experience": "3",
+      "numbers_of_recipes": "8",
+      "likes": "260k",
+      "chef_photo": "https://i.postimg.cc/CxVHD4v5/Screenshot-1.png",
+      "recipe": [
+        {
+          "recipe_id": "recipe_01",
+          "recipe_name": "Kung Pao Chicken",
+          "ingredients": [
+            "1 lb. boneless chicken breast",
+            "1/4 cup cornstarch",
+            "1/4 cup vegetable oil",
+            "1 red bell pepper, chopped",
+            "1 green bell pepper, chopped",
+            "1/2 cup roasted peanuts",
+            "1 tablespoon garlic, minced",
+            "1 tablespoon ginger, minced",
+            "2 green onions, chopped",
+            "2 tablespoons soy sauce",
+            "2 tablespoons rice vinegar",
+            "1 tablespoon hoisin sauce",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "1 teaspoon sesame oil"
+          ],
+          "instructions": [
+            "Cut the chicken into bite-sized pieces and toss with cornstarch.",
+            "Heat the vegetable oil in a large skillet over high heat.",
+            "Add the chicken to the skillet and cook until browned and crispy, about 5 minutes.",
+            "Add the bell peppers, peanuts, garlic, ginger, and green onions to the skillet and cook for 2-3 minutes.",
+            "In a small bowl, whisk together the soy sauce, rice vinegar, hoisin sauce, cornstarch, water, and sesame oil.",
+            "Add the sauce to the skillet and stir until the chicken and vegetables are coated.",
+            "Cook for an additional 1-2 minutes until the sauce thickens.",
+            "Serve hot over rice."
+          ],
+          "ratings": "4.5"
+        },
+        {
+          "recipe_id": "recipe_02",
+          "name": "Hot and Sour Soup",
+          "ingredients": [
+            "4 cups chicken broth",
+            "2 cups water",
+            "1/2 lb. shiitake mushrooms, sliced",
+            "1/2 lb. tofu, cut into small cubes",
+            "1/2 cup bamboo shoots, sliced",
+            "1/2 cup rice vinegar",
+            "2 tablespoons soy sauce",
+            "2 teaspoons chili garlic sauce",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water",
+            "1 egg, lightly beaten",
+            "2 green onions, chopped",
+            "1 teaspoon sesame oil"
+          ],
+          "instructions": [
+            "In a large pot, bring the chicken broth and water to a boil.",
+            "Add the shiitake mushrooms, tofu, and bamboo shoots to the pot and simmer for 10 minutes.",
+            "In a small bowl, whisk together the rice vinegar, soy sauce, chili garlic sauce, cornstarch, and water.",
+            "Add the sauce to the pot and stir until the soup thickens, about 2-3 minutes.",
+            "Slowly pour the beaten egg into the pot while stirring the soup.",
+            "Add the green onions and sesame oil to the pot and stir.",
+            "Serve hot."
+          ],
+          "ratings": "4.7"
+        },
+        {
+          "recipe_id": "recipe_03",
+          "name": "Zeppole",
+          "ingredients": [
+            "2 to 3 cups extra-virgin olive oil",
+            "2 to 3 cups vegetable oil",
+            "2 large eggs",
+            "1 c. whole-milk ricotta cheese",
+            "1 tsp. pure vanilla extract",
+            "3/4 c. granulated sugar, divided",
+            "1 1/4 tsp. finely grated orange zest",
+            "1 c. all-purpose flour",
+            "1 tablespoon cornstarch",
+            "1 tablespoon water"
+          ],
+          "instructions": [
+            "Fill a medium pot fitted with a deep-fry thermometer with equal parts olive oil and vegetable oil to a depth of about 2.",
+            "Heat over medium heat until thermometer registers 350.",
+            "In a medium bowl, whisk eggs, ricotta, vanilla, 1/4 cup granulated sugar, and 1/2 teaspoon orange zest until smooth. Add flour, baking powder, salt, and nutmeg and whisk until smooth.",
+            "In a shallow bowl, combine remaining 1/2 cup granulated sugar and 3/4 teaspoon orange zest",
+            "Using your fingers, work zest into sugar until evenly incorporated.",
+            "Transfer to orange sugar and roll to coat.",
+            "Serve hot."
+          ],
+          "ratings": "4.4"
+        }
+      ]
+    }
+  ]
